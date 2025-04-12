@@ -35,7 +35,7 @@ Analysis settings, unless said otherwise, are:
 
 ![SMPTE.jpg](SMPTE.jpg)
 
-*256K FFT**
+**256K FFT**
 
 ![J_TEST.png](J_TEST.png)
 
